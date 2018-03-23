@@ -25,7 +25,7 @@ function johnLennonFacts(facts) {
     return factsExclamation;
 }
 
-number = 1;
+//number = 1;
 
 function iLoveTheBeatles(number) {
   var loveBeatles = [];
